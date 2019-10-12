@@ -1,6 +1,6 @@
 # java.math.numerical.library
 
-This library is based on numerical methods
+This library is based on numerical methods and it was tested using matlab/Octave
 
 Math library features:
 
@@ -51,8 +51,6 @@ Math library features:
 
 -Complex Numbers (https://en.wikipedia.org/wiki/Complex_number)
 
-
-The library is tested using Matlab.
 
 There are examples in the test folder
 
