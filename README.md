@@ -1,4 +1,6 @@
-# Math Library is a java math computational calculator library based on numerical methods
+# java.math.numerical.library
+
+This library is based on numerical methods
 
 Math library features:
 
