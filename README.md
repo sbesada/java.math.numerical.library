@@ -2,7 +2,7 @@
 
 Java numerical library is based on numerical methods and it was tested using Matlab/Octave (https://www.gnu.org/software/octave/)
 
-Math library features:
+Java numerical library features:
 
 -Functions (https://en.wikipedia.org/wiki/Function_(mathematics))
 
