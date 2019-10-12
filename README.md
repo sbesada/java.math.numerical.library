@@ -54,7 +54,7 @@ Math library features:
 
 There are examples in the test folder
 
-Book Reference: Numerical recepies in C: https://en.wikipedia.org/wiki/Numerical_Recipes
+Book Reference: Numerical recepies in C (https://en.wikipedia.org/wiki/Numerical_Recipes)
 
 Enjoy it!!
 
