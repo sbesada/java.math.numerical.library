@@ -51,6 +51,10 @@ Math library features:
 
 -Complex Numbers (https://en.wikipedia.org/wiki/Complex_number)
 
+-Combination (https://en.wikipedia.org/wiki/Combination)
+
+-Factorial (https://en.wikipedia.org/wiki/Factorial)
+
 
 There are examples in the test folder
 
