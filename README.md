@@ -1,6 +1,6 @@
 # java.math.numerical.library
 
-This library is based on numerical methods and it was tested using matlab/Octave
+This library is based on numerical methods and it was tested using Matlab/Octave
 
 Math library features:
 
