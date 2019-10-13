@@ -29,13 +29,23 @@ Java numerical library features:
 
 -Cauchy equation (https://en.wikipedia.org/wiki/Cauchy_problem) https://www.encyclopediaofmath.org/index.php/Cauchy_problem,_numerical_methods_for_ordinary_differential_equations
 
--Matrix: 
+-Matrix & Vectors: 
+   
+   ***** Basic math operations with matrix 
 
    ***** Inverses solver (https://en.wikipedia.org/wiki/Invertible_matrix)
 
    ***** Eigenvalues calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+   		-Power Iteration
+		-QR Algorithm 
 
    ***** Determinant solver (https://en.wikipedia.org/wiki/Determinant)
+   
+   ***** Matrix Identity (https://en.wikipedia.org/wiki/Identity_matrix)
+   
+   ***** Householder matrix (https://en.wikipedia.org/wiki/Householder_transformation)
+   
+   ***** Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
 
 -Integral solver (https://en.wikipedia.org/wiki/Integral)
 
