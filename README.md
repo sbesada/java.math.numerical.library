@@ -18,7 +18,7 @@ Java numerical library features:
 	String eq2 = "4.67*e^(-3)*x^1.75+20-z";
 	String eq3 = "3.72*e^(-2)*y^1.75+15-z";
 
--system of ODE solver (https://en.wikipedia.org/wiki/Ordinary_differential_equation)
+-System of ODE solver (https://en.wikipedia.org/wiki/Ordinary_differential_equation)
 
 -Neumann equation (Neumann problem)
       
