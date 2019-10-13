@@ -35,9 +35,7 @@ Java numerical library features:
 
    ***** Inverses solver (https://en.wikipedia.org/wiki/Invertible_matrix)
 
-   ***** Eigenvalues calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
-   		-Power Iteration
-		-QR Algorithm 
+   ***** Eigenvalues calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors): Power Iteration (https://en.wikipedia.org/wiki/Power_iteration) and QR Algorithm (https://en.wikipedia.org/wiki/QR_algorithm)
 
    ***** Determinant solver (https://en.wikipedia.org/wiki/Determinant)
    
