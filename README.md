@@ -31,7 +31,7 @@ Java numerical library features:
 
 -Matrix & Vectors: 
    
-   ***** Basic math operations with matrix 
+   ***** Basic math operations with matrix & vectors: Eclidean norm & Maximun norm https://en.wikipedia.org/wiki/Norm_(mathematics)
 
    ***** Inverses solver (https://en.wikipedia.org/wiki/Invertible_matrix)
 
