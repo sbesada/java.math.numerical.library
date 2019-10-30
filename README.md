@@ -45,13 +45,17 @@ Java numerical library features:
    
    ***** Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
 
--Integral solver (https://en.wikipedia.org/wiki/Integral)
+-Integrals:This library can solve using numerical integration (https://en.wikipedia.org/wiki/Numerical_integration):
 
--Multidimensional Integral solver (https://en.wikipedia.org/wiki/Multiple_integral)
+ ***** integrals  (https://en.wikipedia.org/wiki/Multiple_integral
+ 
+ ***** multidimensional Integrals (https://en.wikipedia.org/wiki/Multiple_integral)
+ 
+-Derivatives: This library can solve using numerical diferenciation (https://en.wikipedia.org/wiki/Numerical_differentiation)
 
--Derivatives solver (https://en.wikipedia.org/wiki/Derivative)
+ ***** derivatives (https://en.wikipedia.org/wiki/Derivative)
 
--Partial derivatives solver (https://en.wikipedia.org/wiki/Partial_derivative)
+ ****** Partial derivatives (https://en.wikipedia.org/wiki/Partial_derivative)
 
 -Root or zero of a polynomial solver (https://en.wikipedia.org/wiki/Polynomial) (https://en.wikipedia.org/wiki/Zero_of_a_function)
 
