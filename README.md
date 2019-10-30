@@ -39,7 +39,7 @@ Java numerical library features:
 
    ***** Determinant solver (https://en.wikipedia.org/wiki/Determinant)
    
-   ***** Matrix Identity (https://en.wikipedia.org/wiki/Identity_matrix)
+   ***** Identity matrix (https://en.wikipedia.org/wiki/Identity_matrix)
    
    ***** Householder matrix (https://en.wikipedia.org/wiki/Householder_transformation)
    
