@@ -33,6 +33,9 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 
 + Dirichlet equation (https://en.wikipedia.org/wiki/Dirichlet_problem)
 
+      a(x)*u''(x)+b(x)*u'(x)+c(x)*u(x)=f(x)
+      u(a)=A, u(b)=B
+
 + Cauchy equation (https://en.wikipedia.org/wiki/Cauchy_problem) https://www.encyclopediaofmath.org/index.php/Cauchy_problem,_numerical_methods_for_ordinary_differential_equations
 
 + Vectors:
