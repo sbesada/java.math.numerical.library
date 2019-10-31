@@ -28,7 +28,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
     
 + Cauchy equation (https://en.wikipedia.org/wiki/Cauchy_problem) - In revision
   + (https://www.encyclopediaofmath.org/index.php/Cauchy_problem,_numerical_methods_for_ordinary_differential_equations)
-  + y'(x)= f(x,y); y(x0) = y0
+  + equation: y'(x)= f(x,y); y(x0) = y0
   + numerical method to solve the Cauchy Equation
     + Runge-Kutta
     + Runge-Kutta Adaptative
