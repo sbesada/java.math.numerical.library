@@ -14,9 +14,9 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 
 + Sytems of nonlinear equation solver (https://en.wikipedia.org/wiki/Nonlinear_system)
 
-	String eq1 = "2.35*e^(-3)*(x+y)^1.75-75+z";
-	String eq2 = "4.67*e^(-3)*x^1.75+20-z";
-	String eq3 = "3.72*e^(-2)*y^1.75+15-z";
+        String equation1 = "2.35*e^(-3)*(x+y)^1.75-75+z";
+        String equation2 = "4.67*e^(-3)*x^1.75+20-z";
+        String equation3 = "3.72*e^(-2)*y^1.75+15-z";
 
 + System of ODE solver (https://en.wikipedia.org/wiki/Ordinary_differential_equation)
 
