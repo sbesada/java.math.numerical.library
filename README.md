@@ -67,7 +67,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
   
 + Polynomials with real & complex coefficients (https://en.wikipedia.org/wiki/Polynomial)
   + Root or zero of a polynomial solver (https://en.wikipedia.org/wiki/Zero_of_a_function)
-    + Laguerre: (https://en.wikipedia.org/wiki/Laguerre%27s_method) numerical method to calculte roots
+    + Laguerre: (https://en.wikipedia.org/wiki/Laguerre%27s_method) numerical method to calculate roots
 
 + Series solver (https://en.wikipedia.org/wiki/Series_(mathematics))
   + function series: functions with one or n real vars (https://en.wikipedia.org/wiki/Function_series)
