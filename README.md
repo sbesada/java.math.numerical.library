@@ -41,25 +41,32 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
   + Householder matrix (https://en.wikipedia.org/wiki/Householder_transformation)
   + Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
   + Eigenvalues & eigenvectors calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
-    + Eigenvalues
-    
-  Power Iteration (https://en.wikipedia.org/wiki/Power_iteration) and QR Algorithm (https://en.wikipedia.org/wiki/QR_algorithm)
+    + numerical methods to calculate Eigenvalues:
+      + Power Iteration (https://en.wikipedia.org/wiki/Power_iteration) 
+      + QR Algorithm (https://en.wikipedia.org/wiki/QR_algorithm)
+    + numerical method to calculate eigenvectors
+      + Inverse iteration https://en.wikipedia.org/wiki/Inverse_iteration
 
 + Integrals: This library can solve integrals using numerical integration (https://en.wikipedia.org/wiki/Numerical_integration):
-
- ***** integrals  (https://en.wikipedia.org/wiki/Multiple_integral
- 
- ***** multidimensional Integrals (https://en.wikipedia.org/wiki/Multiple_integral)
+  + Integrals: numerical methods to solve integrals (https://en.wikipedia.org/wiki/Integral)
+    + Trapezoidal (https://en.wikipedia.org/wiki/Trapezoidal_rule)
+    + Simpson (https://en.wikipedia.org/wiki/Simpson%27s_rule)
+    + Romberg (https://en.wikipedia.org/wiki/Romberg%27s_method
+  + Multidimensional Integrals: (https://en.wikipedia.org/wiki/Multiple_integral)
+    + QuasiMontecarlo: (https://en.wikipedia.org/wiki/Quasi-Monte_Carlo_method) numerical method to solve multidimensional integrals
  
 + Derivatives: This library can solve derivatives using numerical diferenciation (https://en.wikipedia.org/wiki/Numerical_differentiation)
 
- ***** derivatives (https://en.wikipedia.org/wiki/Derivative)
+  + Derivatives (https://en.wikipedia.org/wiki/Derivative)
 
- ****** Partial derivatives (https://en.wikipedia.org/wiki/Partial_derivative)
-
-+ Root or zero of a polynomial solver (https://en.wikipedia.org/wiki/Polynomial) (https://en.wikipedia.org/wiki/Zero_of_a_function)
+  + Partial derivatives (https://en.wikipedia.org/wiki/Partial_derivative)
+  
++ Polynomials with real & complex coefficients (https://en.wikipedia.org/wiki/Polynomial)
+  + Root or zero of a polynomial solver (https://en.wikipedia.org/wiki/Zero_of_a_function)
+    + Laguerre: (https://en.wikipedia.org/wiki/Laguerre%27s_method) numerical method to calculte roots
 
 + Series solver (https://en.wikipedia.org/wiki/Series_(mathematics))
+  + functions serie: functions with one or n real vars-- https://en.wikipedia.org/wiki/Function_series
 
 + Complex Numbers (https://en.wikipedia.org/wiki/Complex_number)
 
