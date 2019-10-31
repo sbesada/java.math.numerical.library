@@ -66,7 +66,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
     + Laguerre: (https://en.wikipedia.org/wiki/Laguerre%27s_method) numerical method to calculte roots
 
 + Series solver (https://en.wikipedia.org/wiki/Series_(mathematics))
-  + functions serie: functions with one or n real vars-- https://en.wikipedia.org/wiki/Function_series
+  + function series: functions with one or n real vars-- https://en.wikipedia.org/wiki/Function_series
 
 + Complex Numbers (https://en.wikipedia.org/wiki/Complex_number)
 
