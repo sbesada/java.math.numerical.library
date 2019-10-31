@@ -10,8 +10,8 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 
 + Equations solver (https://en.wikipedia.org/wiki/Equation)
   + Numerical methods to solve equations
-    + Dichotomy (https://en.wikipedia.org/wiki/Bisection_method)  
-    + Newton–Raphson (https://en.wikipedia.org/wiki/Newton%27s_method)
+    + Dichotomy (https://en.wikipedia.org/wiki/Bisection_method)
+    + Newton–Raphson (https://en.wikipedia.org/wiki/Newton%27s_method)
 
 + System of equation solver (https://en.wikipedia.org/wiki/System_of_linear_equations)
 
