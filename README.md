@@ -4,9 +4,9 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 
 ## Java numerical library features:
 
--Functions (https://en.wikipedia.org/wiki/Function_(mathematics))
++Functions (https://en.wikipedia.org/wiki/Function_(mathematics))
 
--Functions with n vars (https://en.wikipedia.org/wiki/Function_of_several_real_variables)
++ Functions with n vars (https://en.wikipedia.org/wiki/Function_of_several_real_variables)
 
 -Equations solver (https://en.wikipedia.org/wiki/Equation)
 
