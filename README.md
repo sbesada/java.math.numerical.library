@@ -9,6 +9,9 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 + Functions with n vars (https://en.wikipedia.org/wiki/Function_of_several_real_variables)
 
 + Equations solver (https://en.wikipedia.org/wiki/Equation)
+  + Numerical methods to solve equations
+    + Dichotomy (https://en.wikipedia.org/wiki/Bisection_method)  
+    + Newton–Raphson (https://en.wikipedia.org/wiki/Newton%27s_method)
 
 + System of equation solver (https://en.wikipedia.org/wiki/System_of_linear_equations)
 
@@ -38,6 +41,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
   + Inverse solver (https://en.wikipedia.org/wiki/Invertible_matrix)
   + Determinant solver (https://en.wikipedia.org/wiki/Determinant)
   + Identity matrix (https://en.wikipedia.org/wiki/Identity_matrix)
+  + Balanced Matrix (https://en.wikipedia.org/wiki/Balanced_matrix)
   + Householder matrix (https://en.wikipedia.org/wiki/Householder_transformation)
   + Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
   + Eigenvalues & eigenvectors calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
