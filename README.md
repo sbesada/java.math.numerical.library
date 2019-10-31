@@ -29,21 +29,18 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 
 + Cauchy equation (https://en.wikipedia.org/wiki/Cauchy_problem) https://www.encyclopediaofmath.org/index.php/Cauchy_problem,_numerical_methods_for_ordinary_differential_equations
 
-+ Matrix & Vectors: 
-   
-   ***** Basic math operations with matrix & vectors: Eclidean norm & Maximun norm https://en.wikipedia.org/wiki/Norm_(mathematics)
-
-   ***** Inverses solver (https://en.wikipedia.org/wiki/Invertible_matrix)
-
-   ***** Eigenvalues calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors): Power Iteration (https://en.wikipedia.org/wiki/Power_iteration) and QR Algorithm (https://en.wikipedia.org/wiki/QR_algorithm)
-
-   ***** Determinant solver (https://en.wikipedia.org/wiki/Determinant)
-   
-   ***** Identity matrix (https://en.wikipedia.org/wiki/Identity_matrix)
-   
-   ***** Householder matrix (https://en.wikipedia.org/wiki/Householder_transformation)
-   
-   ***** Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
++ Vectors:
+  + Basic math operations with vectors
+  + Eclidean norm & Maximun norm https://en.wikipedia.org/wiki/Norm_(mathematics)
+  
++ Matrix
+  + Basic math operations with matrix
+  + Inverse solver (https://en.wikipedia.org/wiki/Invertible_matrix)
+  + Determinant solver (https://en.wikipedia.org/wiki/Determinant)
+  + Identity matrix (https://en.wikipedia.org/wiki/Identity_matrix)
+  + Householder matrix (https://en.wikipedia.org/wiki/Householder_transformation)
+  + Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
+  + Eigenvalues calculator (https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors): Power Iteration (https://en.wikipedia.org/wiki/Power_iteration) and QR Algorithm (https://en.wikipedia.org/wiki/QR_algorithm)
 
 + Integrals: This library can solve integrals using numerical integration (https://en.wikipedia.org/wiki/Numerical_integration):
 
