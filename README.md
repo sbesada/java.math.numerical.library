@@ -22,6 +22,9 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
         String equation3 = "3.72*e^(-2)*y^1.75+15-z";
 
 + System of ODE solver (https://en.wikipedia.org/wiki/Ordinary_differential_equation)
+  + Numerical methods to solve System of ODE
+    + Runge-Kutta (https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
+    + Predictor-Corrector (https://en.wikipedia.org/wiki/Predictor%E2%80%93corrector_method)
 
 + Neumann equation (Neumann problem)
       
