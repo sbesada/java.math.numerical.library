@@ -26,7 +26,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
     + Runge-Kutta (https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
     + Predictor-Corrector (https://en.wikipedia.org/wiki/Predictor%E2%80%93corrector_method)
 
-+ Neumann equation (Neumann problem)
++ Neumann equation (https://en.wikipedia.org/wiki/Neumann_boundary_condition)
       
        a(x)*u''(x)+b(x)*u'(x)+c(x)*u(x)=f(x)
        u(a)=A, u(b)=B
