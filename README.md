@@ -30,6 +30,11 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
       
        a(x)*u''(x)+b(x)*u'(x)+c(x)*u(x)=f(x)
        u(a)=A, u(b)=B
+ 
+   + Solutions:
+     + Dy(a)=A Dy(b)=B
+     + Dy(a)=A y(b)=B
+     + y(a)=A Dy(b)=B
 
 + Dirichlet equation (https://en.wikipedia.org/wiki/Dirichlet_problem)
 
