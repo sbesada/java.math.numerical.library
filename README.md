@@ -45,7 +45,7 @@ Java numerical library features:
    
    ***** Hessenber matrix (https://en.wikipedia.org/wiki/Hessenberg_matrix)
 
--Integrals:This library can solve intgrals using numerical integration (https://en.wikipedia.org/wiki/Numerical_integration):
+-Integrals:This library can solve integrals using numerical integration (https://en.wikipedia.org/wiki/Numerical_integration):
 
  ***** integrals  (https://en.wikipedia.org/wiki/Multiple_integral
  
