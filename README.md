@@ -57,7 +57,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
   + Eclidean norm & Maximun norm https://en.wikipedia.org/wiki/Norm_(mathematics)
   
 + Matrix
-  + Basic math operations with matrix
+  + Basic math operations with matrix (https://en.wikipedia.org/wiki/Linear_algebra)
   + Inverse solver (https://en.wikipedia.org/wiki/Invertible_matrix)
   + Determinant solver (https://en.wikipedia.org/wiki/Determinant)
   + Identity matrix (https://en.wikipedia.org/wiki/Identity_matrix)
