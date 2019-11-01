@@ -7,7 +7,7 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
 + Functions (https://en.wikipedia.org/wiki/Function_(mathematics))
 
 + Functions with n vars (https://en.wikipedia.org/wiki/Function_of_several_real_variables)
-  + Expression parser: java.math.expression.parser that you can find in my github repository. It is a recursive ascent parser https://en.wikipedia.org/wiki/Recursive_ascent_parser
+  + Expression parser: java.math.expression.parser that you can find in my github repository. It is a recursive ascent parser
 
 + Equations solver (https://en.wikipedia.org/wiki/Equation)
   + Numerical methods to solve equations
