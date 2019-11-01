@@ -27,12 +27,12 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
     + Runge-Kutta (https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
     + Predictor-Corrector (https://en.wikipedia.org/wiki/Predictor%E2%80%93corrector_method)
     
-+ Cauchy equation (https://en.wikipedia.org/wiki/Cauchy_problem) - In revision
++ Cauchy equation (https://en.wikipedia.org/wiki/Cauchy_problem)
   + (https://www.encyclopediaofmath.org/index.php/Cauchy_problem,_numerical_methods_for_ordinary_differential_equations)
   + equation: y'(x)= f(x,y); y(x0) = y0
   + numerical method to solve the Cauchy Equation
     + Runge-Kutta
-    + Runge-Kutta Adaptative
+    + Adaptative Runge-Kutta
     + Predictor - Corrector   
     
 + Dirichlet equation (https://en.wikipedia.org/wiki/Dirichlet_problem) - In revision
