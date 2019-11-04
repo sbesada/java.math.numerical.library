@@ -21,9 +21,10 @@ import com.mathlibrary.util.Interval;
  *         Dirichlet Ecuation
  */
 public class DirichletEquation {
-
-    // a(x)*u''(x)+b(x)*u'(x)+c(x)*u(x)=f(x)
-    // u(a)=A, u(b)=B
+	
+	//ODE equation --> a(x)*y'' + b(x)*y' + c(x)*y = f(x)
+	    
+		//Dirichlet boundary condition --> y(a)=A , y(b)=B || A = alpha, B = Beta
 
     /**
      * a(x)

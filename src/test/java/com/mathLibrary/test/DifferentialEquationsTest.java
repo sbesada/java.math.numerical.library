@@ -16,10 +16,12 @@ public class DifferentialEquationsTest {
 	@Test
 	public void test() {
 		// TODO Auto-generated method stub
-		// String f_xy = "cos(x)";
-		String f_xy = "-4*x+1";
-		// String f_xy = "4*x+1+y";
-		// String f_xy = "4*x+1";
+		// String f_xy = "cos(x)"; --> y' = cos(x);
+		
+		
+		String f_xy = "-4*x+1"; // y' = -4*x+1
+		// String f_xy = "4*x+1+y"; --> y' = 4*x+1+y
+		// String f_xy = "4*x+1"; --> y' = 4*x+1
 		Point po = new Point(0, 0);
 		List<String> vars = new ArrayList<String>();
 		vars.add("X");

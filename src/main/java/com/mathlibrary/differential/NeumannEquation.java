@@ -20,9 +20,12 @@ import com.mathlibrary.util.Interval;
  */
 public class NeumannEquation {
 
-    // a(x)*u''(x)+b(x)*u'(x)+c(x)*u(x)=f(x)
-    // u(a)=A, u(b)=B
-
+    //ODE equation --> a(x)*y'' + b(x)*y' + c(x)*y = f(x)
+			
+		//Neumann boundary condition 
+	        //solveInitCondition  --> y'(a)=A   y(b)=B  || A = alpha, B = beta
+		    //solveFinalCondition --> y(a)=A    y'(b)=B || A = alpha, B = beta
+	    	//solve               --> y'(a)=A   y'(b)=B || A = alpha, B = bet
     /**
      * a(x)
      */
@@ -61,7 +64,7 @@ public class NeumannEquation {
 
     /**
      * 
-     * solve Dy(a)=A Dy(b)=B
+     * solve y'(a)=A y'(b)=B
      * 
      * @param interval
      * @param m
@@ -130,7 +133,7 @@ public class NeumannEquation {
 
     /**
      * 
-     * solve Dy(a)=A y(b)=B
+     * solve y'(a)=A y(b)=B
      * 
      * @param interval
      * @param m
@@ -201,7 +204,7 @@ public class NeumannEquation {
 
     /**
      * 
-     * solve y(a)=A Dy(b)=B
+     * solve y(a)=A y'(b)=B
      * 
      * @param interval
      * @param m

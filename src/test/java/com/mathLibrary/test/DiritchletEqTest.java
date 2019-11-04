@@ -14,6 +14,10 @@ public class DiritchletEqTest {
 
 	@Test
 	public void test() {
+		//ODE equation --> a(x)*y'' + b(x)*y' + c(x)*y = f(x)
+		//Diritchlet boundary condition --> y(a)=A , y(b)=B || A = alpha, B = Beta		
+		
+		
 		String a_x = "-1";
 		String b_x = "0";
 		String c_x = "0";
