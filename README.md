@@ -35,9 +35,16 @@ Java numerical library is based on numerical methods (https://en.wikipedia.org/w
     + Adaptative Runge-Kutta
     + Predictor - Corrector   
     
-+ Dirichlet equation (https://en.wikipedia.org/wiki/Dirichlet_problem) - In revision
++ Dirichlet equation (https://en.wikipedia.org/wiki/Dirichlet_problem) 
+  + ODE equation: a(x)*y'' + b(x)*y' + c(x)*y = f(x)
+  + Dirichlet boundary condition: y(a)=A , y(b)=B || A = alpha, B = Beta (https://en.wikipedia.org/wiki/Dirichlet_boundary_condition)  
        
-+ Neumann equation (https://en.wikipedia.org/wiki/Neumann_boundary_condition) - In revision
++ Neumann equation (https://en.wikipedia.org/wiki/Neumann_boundary_condition)
+  + ODE equation: a(x)*y'' + b(x)*y' + c(x)*y = f(x)
+  + Solutions for Neumann boundary conditions: (https://en.wikipedia.org/wiki/Neumann_boundary_condition)
+    +  y'(a)=A   y'(b)=B || A = alpha, B = beta
+    +  y'(a)=A   y(b)=B  || A = alpha, B = beta
+    +  y(a)=A    y'(b)=B || A = alpha, B = beta
    
 + Vectors:
   + Basic math operations with vectors
