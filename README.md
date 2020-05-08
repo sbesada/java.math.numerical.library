@@ -98,6 +98,8 @@ There are examples in the test folder
 
 Reference Book: Numerical recepies in C (https://en.wikipedia.org/wiki/Numerical_Recipes)
 
-Enjoy it!!
+## Professional Services
+If you are interested in logical parsers or any task related to parsers, you can consult my professional services page https://github.com/sbesada/professional.services        
 
-PD: If you think that my work deserves a donation, you can do it: https://sbesada.github.io/
+## Donation
+If you think that my work deserves a donation, you can do it: https://sbesada.github.io/
